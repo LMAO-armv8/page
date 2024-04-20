@@ -11,6 +11,11 @@
     color: #fff;
 }
 
+.responsive-gif {
+    max-width: 100%;
+    height: auto;
+}
+
 .loading-gif video {
     width: 100%; /* Adjust the width to fill the container */
     height: 100%; /* Adjust the height to fill the container */
